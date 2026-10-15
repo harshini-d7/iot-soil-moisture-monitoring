@@ -1,5 +1,20 @@
-# Welcome to GitHub Desktop!
+My ECE Portfolio 👋
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+About Me
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+I am a final-year Diploma student in Electronics and Communication Engineering.
+
+My Interests
+
+- Electronics
+- Digital Circuits
+- Microcontrollers
+- Communication Systems
+
+My Projects
+
+I will document my academic projects, circuit diagrams, and practical electronics work here.
+
+My Goal
+
+I want to gain practical experience through an electronics internship and improve my technical skills.
